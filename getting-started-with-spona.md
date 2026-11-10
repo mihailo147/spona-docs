@@ -1,0 +1,3 @@
+# Getting started with Spona
+
+Create a free account at https://sponasales.com/register. It comes with 3,000 credits, enough for three searches of 1,000 credits each. Open the chat and describe the customers you want: industry, company size, roles, countries, and anything that signals a good fit. The miners ask one or two follow-up questions, then show sample leads with the reason each one matches. If the samples look right, run the full search; the leads arrive in minutes with e-mail, LinkedIn and, on Standard and Deep Search, mobile numbers. Export to CSV or push to your CRM. No contract, setup or onboarding is needed.

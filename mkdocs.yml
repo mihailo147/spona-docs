@@ -1,0 +1,21 @@
+site_name: Spona documentation
+site_url: https://spona.readthedocs.io/
+site_description: How Spona turns a chat about your ideal customer into verified B2B leads.
+repo_url: https://github.com/spona/spona-docs
+copyright: 'Copyright &copy; 2023-2026 SPONA Inc. &middot; <a href="https://sponasales.com">sponasales.com</a>'
+theme:
+  name: material
+  features: [navigation.sections, search.suggest]
+nav:
+  - Home: index.md
+  - Getting started with Spona: getting-started-with-spona.md
+  - Credits and pricing: credits-and-pricing.md
+  - Bulk, Standard and Deep Search: bulk-standard-and-deep-search.md
+  - Where the data comes from: where-the-data-comes-from.md
+  - Exporting leads and connecting your CRM: exporting-leads-and-connecting-your-crm.md
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://sponasales.com
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/spona
